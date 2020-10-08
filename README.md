@@ -10,7 +10,7 @@ This is a easy weather app
 
 We’re going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:217.78%;position:relative;"><iframe width="360" height="784" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4htbml"></iframe></div><p><a href="https://imgflip.com/gif/4htbml">via Imgflip</a></p></div>
+(https://user-images.githubusercontent.com/48550316/95492867-82a12580-09bd-11eb-97a1-f9fb374ea85f.gif)
 
 ## What you will learn
 
